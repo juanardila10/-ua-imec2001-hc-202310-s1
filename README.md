@@ -141,7 +141,7 @@ Para [clonar](https://docs.github.com/es/repositories/creating-and-managing-repo
 Otra opción es desde el terminal con en el [ambiente](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) activado; para esto ejecute:
 
 ```python
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
 
 #### Software
