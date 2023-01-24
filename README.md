@@ -165,5 +165,5 @@ El miembro de la comunidad que sea sujeto presencie o tenga conocimiento de una 
 - **Línea MAAD:** lineamaad@uniandes.edu.co
 - **Ombudsperson:** ombudsperson@uniandes.edu.co
 - **Decanatura de Estudiantes:** centrodeapoyo@uniandes.edu.co
-- **Pares de Acompañamiento contra el Acoso:** paca@uniandes.edu.co
+- **Pares de Acompañamiento Contra el Acoso:** paca@uniandes.edu.co
 - **Consejo Estudiantil Uniandino (CEU):** comiteacosoceu@uniandes.edu.co
