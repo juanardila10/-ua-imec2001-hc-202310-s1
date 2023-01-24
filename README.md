@@ -10,7 +10,7 @@ Miércoles y viernes de 14:00 a 15:50h en el **Q-508**.
 
 ## Equipo académico
 
-#### Profesor
+#### Director
 > **Andrés Leonardo González Mancera** <br>
 > **Correo:** angonzal@uniandes.edu.co <br>
 > **Oficina:** ML-750 <br>
