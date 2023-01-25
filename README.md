@@ -131,7 +131,7 @@ Es responsabilidad del estudiante ser el centro de su propio aprendizaje y distr
 - Wes McKinney (2018). Python Data Analysis, 2nd Edition, USA. O’Reilly. ISBN 13: 978-1-491-95766-0.
 
 #### Repositorio
-Para [clonar](https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository) el repositorio `ua-imec2001-hc-202310-s1` se recomienda usar el software [GitHub Desktop](https://desktop.github.com/). La URL del repositorio es: [https://github.com/salazarna/ua-imec2001-hc-202310-s1.](https://github.com/salazarna/ua-imec2001-hc-202310-s1).
+Para [clonar](https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository) el repositorio `ua-imec2001-hc-202310-s1` se recomienda usar el software [GitHub Desktop](https://desktop.github.com/). La URL del repositorio es: [https://github.com/salazarna/ua-imec2001-hc-202310-s1](https://github.com/salazarna/ua-imec2001-hc-202310-s1).
 
 Otra opción es desde el terminal con en el [ambiente](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) activado; para esto ejecute:
 
@@ -148,7 +148,7 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ## Normas del curso y recomendaciones
 - Todos los talleres del curso y el proyecto se deben realizar en **parejas** a menos que explícitamente se indique lo contrario.
 - Los talleres se entregan en la fecha, hora y método especificados. No se aceptan trabajos tarde.
-- **La fecha límite de entrega de los talleres es hasta las 23.59h del domingo de la segunda semana siguiente a partir de su publicación.**.
+- **La fecha límite de entrega de los talleres es hasta las 23.59h del domingo de la segunda semana siguiente a partir de su publicación.**
 - Tener presente las buenas prácticas de citas y referencias.
 - De acuerdo con el Reglamento General de Estudiantes de Pregrado – Universidad de los Andes, se tienen cuatro (4) días después de publicada la nota como plazo máximo para reclamos.
     > Capítulo VII, ART. 64. Todo estudiante que desee formular un reclamo sobre las calificaciones de cualquier evaluación o sobre la nota definitiva del curso deberá dirigirlo por escrito y debidamente sustentado al profesor responsable de la materia, dentro de los cuatro (4) días hábiles siguientes a aquel en que se dan a conocer las calificaciones en cuestión.
