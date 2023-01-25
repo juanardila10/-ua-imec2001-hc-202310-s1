@@ -91,7 +91,7 @@ En Bloque Neón se dispone un foro como medio centralizado para la resolución d
 |   2    | Gráficas y visualización (ajuste de datos, estadística, barras de error)   | Febrero 1 y 3     |                 |
 |   3    | Interpolación (curva de una bomba)                                         | Febrero 8 y 10    | T1 (Febrero 19) |
 |   4    | Raíces de ecuaciones (factor de fricción de Darcy)                         | Febrero 15 y 17   |                 |
-|   5    | Sistemas de ecuaciones (estática, e.g., cerchas)                           | Febrero 22 y 24   | T2 (Marzo 5)\nP (Marzo 19)    |
+|   5    | Sistemas de ecuaciones (estática, e.g., cerchas)                           | Febrero 22 y 24   | T2 (Marzo 5) P (Marzo 19)    |
 |   6    | Optimización (operación de sistema eólico y de bombeo)                     | Marzo 1 y 3       |                 |
 |   7    | ODEs (incertidumbre-propagación, dinámica)                                 | Marzo 8 y 10      | T3 (Marzo 19)   |
 |   8    | FFT (señales de péndulos y audio)                                          | Marzo 15 y 17     |                 |
