@@ -10,11 +10,11 @@ Miércoles y viernes de 14:00 a 15:50h en el **Q-508**.
 
 ## Equipo académico
 
-#### Director
+#### Coordinador
 > **Andrés Leonardo González Mancera** <br>
 > **Correo:** angonzal@uniandes.edu.co <br>
 > **Oficina:** ML-750 <br>
-> **Atención a estudiantes:**  Vía correo <br>
+> **Atención a estudiantes:** Miércoles y viernes de 9 a 11am o programada vía correo <br>
 
 #### Profesor
 > **Nelson Andrés Salazar Peña** <br>
@@ -54,16 +54,10 @@ Este curso aporta en el desarrollo de las siguientes competencias:
 	- 1.2. Escoge y aplica modelos cuantitativos, conceptuales y/o cualitativos para la solución de problemas mecánicos o térmicos.
 	- **1.3. Resuelve problemas de ingeniería.**
 
-* 3\. Habilidad para comunicarse efectivamente con diferentes audiencias.
-	- 3.1\. Escribe de forma clara y efectiva documentos e informes de ingeniería usando terminología y lenguaje adecuado.
+* 6\. Habilidad para desarrollar y conducir apropiadamente experimentación, analizar e interpretar datos, y usar el juicio de ingeniería para elaborar conclusiones.
 
-		- **3.1.1. Comunica sus ideas con claridad, expresándose de forma directa y utilizando el vocabulario adecuado.**
-		- 3.1.2. Escribe oraciones completas y legibles usando adecuadamente la gramática, la puntuación y la ortografía.
-		- 3.1.3. Referencia los materiales de consulta.
-
-	- 3.3\. Usa la expresión gráfica para comunicar ideas de ingeniería siguiendo estándares.
-
-		- **3.3.1. Demuestra trazado de esquemas, dibujos, y/o planos siguiendo entandares de ingeniería.**
+	- **6.3\. Analiza e interpreta datos, desarrolla los cálculos necesarios y tabula/gráfica los resultados.**
+	- 6.4\. Elabora conclusiones basadas en datos experimentales y modelos disponibles.
 
 * 7\. Habilidad para adquirir y aplicar nuevo conocimiento según sea necesario, utilizando estrategias de aprendizaje apropiadas.
 
@@ -82,11 +76,12 @@ El material del curso será publicado en GitHub y direccionado desde Bloque Neó
 
 Los espacios de clase serán para revisión de la temática (incluye actividades) y solución de inquietudes. Los estudiantes disponen de un cuaderno interactivo (Jupyter Notebook) para aplicar la metodología hands-on a medida que se avanza en la temática. Finalizada la clase, se dispondrán estos mismos cuadernos interactivos con los ejercicios resueltos para su consulta.
 
-En cuanto a los talleres, estos se habilitarán **cada dos semanas** a las 15:50h de cada viernes. **El plazo límite de entrega es hasta las 23:59h del domingo de la segunda semana siguiente a partir de su publicación**. Si la entrega cumple con los criterios estipulados (indicados en el enunciado del taller), se da la posibilidad de hacer un segundo envío con correcciones a partir de los comentarios.
+En cuanto a los talleres, estos se habilitarán **cada dos semanas** a las 15:50h de cada viernes. **El plazo límite de entrega es hasta las 23:59h del domingo de la segunda semana siguiente a partir de su publicación**. Si la entrega cumple con los criterios estipulados en el enunciado del taller, se da la posibilidad de hacer un segundo envío con correcciones a partir de los comentarios.
 
-Además, hay un plazo extra hasta las 23.59h del segundo día siguiente (martes) de la semana de entrega (es decir, se dan dos días más). Sin embargo, su calificación es sobre 4.00 y no hay posibilidad de hacer correcciones. Después de este plazo la entrega tiene una calificación de 0.0.
+Además, hay un plazo extra hasta las 23.59h del segundo día siguiente (martes) de la semana de entrega (es decir, se dan dos días más). Sin embargo, su calificación es sobre 4.00. Si la entrega cumple con los mismos criterios estipulados previamente, también se puede hacer un segundo envío con correcciones a partir de los comentarios, manteniendo la calificación sobre 4.00. Después de este plazo la entrega tiene una calificación de 0.0.
 
 En Bloque Neón se dispone un foro como medio centralizado para la resolución de preguntas que serán de apoyo al curso. Este es un espacio colaborativo entre todos, la participación en el foro será tenida en cuenta en las Actividades en Clase (Tabla 1).
+
 
 
 ## Contenido y cronograma del curso
@@ -96,7 +91,7 @@ En Bloque Neón se dispone un foro como medio centralizado para la resolución d
 |   2    | Gráficas y visualización (ajuste de datos, estadística, barras de error)   | Febrero 1 y 3     |                 |
 |   3    | Interpolación (curva de una bomba)                                         | Febrero 8 y 10    | T1 (Febrero 19) |
 |   4    | Raíces de ecuaciones (factor de fricción de Darcy)                         | Febrero 15 y 17   |                 |
-|   5    | Sistemas de ecuaciones (estática, e.g., cerchas)                           | Febrero 22 y 24   | T2 (Marzo 5)    |
+|   5    | Sistemas de ecuaciones (estática, e.g., cerchas)                           | Febrero 22 y 24   | T2 (Marzo 5)\nP (Marzo 19)    |
 |   6    | Optimización (operación de sistema eólico y de bombeo)                     | Marzo 1 y 3       |                 |
 |   7    | ODEs (incertidumbre-propagación, dinámica)                                 | Marzo 8 y 10      | T3 (Marzo 19)   |
 |   8    | FFT (señales de péndulos y audio)                                          | Marzo 15 y 17     |                 |
@@ -153,7 +148,7 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ## Normas del curso y recomendaciones
 - Todos los talleres del curso y el proyecto se deben realizar en **parejas** a menos que explícitamente se indique lo contrario.
 - Los talleres se entregan en la fecha, hora y método especificados. No se aceptan trabajos tarde.
-- **La fecha límite de entrega de los talleres es hasta las 23.59h del domingo de la segunda semana siguiente a partir de su publicación**.
+- **La fecha límite de entrega de los talleres es hasta las 23.59h del domingo de la segunda semana siguiente a partir de su publicación.**.
 - Tener presente las buenas prácticas de citas y referencias.
 - De acuerdo con el Reglamento General de Estudiantes de Pregrado – Universidad de los Andes, se tienen cuatro (4) días después de publicada la nota como plazo máximo para reclamos.
     > Capítulo VII, ART. 64. Todo estudiante que desee formular un reclamo sobre las calificaciones de cualquier evaluación o sobre la nota definitiva del curso deberá dirigirlo por escrito y debidamente sustentado al profesor responsable de la materia, dentro de los cuatro (4) días hábiles siguientes a aquel en que se dan a conocer las calificaciones en cuestión.
